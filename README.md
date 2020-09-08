@@ -5,14 +5,14 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5579991995830&text=Olá!)](https://api.whatsapp.com/send?phone=5579991995830&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vyniciuss@gmail.com)](mailto:vyniciuss@gmail.com)
 
-## Olá 👋
+## Hello 👋
 
-Meu nome é Vinicius Ferreira, Engenheiro de Software e entusiasta da área de dados.
+My name is Vinicius Ferreira, Software Engineer and data enthusiast.
 
-- :office_worker: Trabalhando como engenheiro de software na **CTIS e Alocado no TRE-SE**
-- :blue_heart: Techs: Java, Python, Oracle, Docker, Linux e muito mais!
-- :books: Estudando sobre CI/CD com: Ansible, Terraform, Inspec, Rocket.chat, Hubot, GitLab, Jenkins, Docker, Portainer e AWS.
-- :books: Estudando Engenharia de Dados com: HDFS, Hive ,Sqoop, Storm, Flume, NiFi, Spark, HBase, Zookeeper e Airflow.
+- :office_worker: working as a senior java developer at **Spassus**
+- :blue_heart: Techs: Java, Python, Oracle, Docker, Linux and much more!
+- :books: Studying CI/CD with: Ansible, Terraform, Inspec, Rocket.chat, Hubot, GitLab, Jenkins, Docker, Portainer e AWS.
+- :books: Studying data engineering with: HDFS, Hive ,Sqoop, Storm, Flume, NiFi, Spark, HBase, Zookeeper e Airflow.
 
 > :octocat:
 
