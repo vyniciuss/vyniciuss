@@ -9,7 +9,7 @@
 
 My name is Vinicius Ferreira, Software Engineer and data enthusiast.
 
-- :office_worker: working as a senior java developer at **Spassus**
+- :office_worker: working as a software engineer at **Labsit**
 - :blue_heart: Techs: Java, Python, Oracle, Docker, Linux and much more!
 - :books: Studying CI/CD with: Ansible, Terraform, Inspec, Rocket.chat, Hubot, GitLab, Jenkins, Docker, Portainer e AWS.
 - :books: Studying data engineering with: HDFS, Hive ,Sqoop, Storm, Flume, NiFi, Spark, HBase, Zookeeper e Airflow.
